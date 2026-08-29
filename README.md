@@ -1,4 +1,4 @@
-# bos-product-images
+# boss-product-images
 
 博斯服饰货品图片图床（GitHub + jsDelivr CDN）。
 
@@ -19,16 +19,16 @@ manifest.json  全部图片的 jsDelivr 直链清单（id -> url 映射）
 公开仓库，任意图片均可经 jsDelivr 直接访问：
 
 ```
-https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2022-2024秋冬/10323979084022.jpg
-https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2025秋冬/15111948067090.jpg
-https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2026秋冬/14311321198124.jpg
-https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2026春夏/M611T04390.png
+https://cdn.jsdelivr.net/gh/<USERNAME>/boss-product-images@v1.2/2022-2024秋冬/10323979084022.jpg
+https://cdn.jsdelivr.net/gh/<USERNAME>/boss-product-images@v1.2/2025秋冬/15111948067090.jpg
+https://cdn.jsdelivr.net/gh/<USERNAME>/boss-product-images@v1.2/2026秋冬/14311321198124.jpg
+https://cdn.jsdelivr.net/gh/<USERNAME>/boss-product-images@v1.2/2026春夏/M611T04390.png
 ```
 
 在 HTML 中使用：
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2026秋冬/14311321198124.jpg" alt="货品 14311321198124">
+<img src="https://cdn.jsdelivr.net/gh/<USERNAME>/boss-product-images@v1.2/2026秋冬/14311321198124.jpg" alt="货品 14311321198124">
 ```
 
 ## 说明

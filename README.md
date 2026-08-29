@@ -20,7 +20,7 @@ manifest.json  全部图片的 jsDelivr 直链清单（id -> url 映射）
 
 ```
 https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2022-2024秋冬/10323979084022.jpg
-https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2025秋冬/15121065377002.jpg
+https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2025秋冬/15111948067090.jpg
 https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2026秋冬/14311321198124.jpg
 https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@v1.1/2026春夏/M611T04390.png
 ```

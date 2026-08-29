@@ -6,7 +6,8 @@
 
 ```
 2022-2025/   2022–2025 年秋冬货品图片（.jpg，共 1071 张）
-2026/        2026 年秋冬货品图片（.jpg，共 227 张）
+2026秋冬/    2026 年秋冬货品图片（.jpg，共 227 张）
+2026春夏/    2026 年春夏货品图片（.png，取自订单表，按 SKC 命名，共 348 张）
 manifest.json  全部图片的 jsDelivr 直链清单（id -> url 映射）
 ```
 
@@ -18,13 +19,14 @@ manifest.json  全部图片的 jsDelivr 直链清单（id -> url 映射）
 
 ```
 https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@main/2022-2025/10323979084022.jpg
-https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@main/2026/14311321198124.jpg
+https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@main/2026秋冬/14311321198124.jpg
+https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@main/2026春夏/M611T04390.png
 ```
 
 在 HTML 中使用：
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@main/2026/14311321198124.jpg" alt="货品 14311321198124">
+<img src="https://cdn.jsdelivr.net/gh/<USERNAME>/bos-product-images@main/2026秋冬/14311321198124.jpg" alt="货品 14311321198124">
 ```
 
 ## 说明
